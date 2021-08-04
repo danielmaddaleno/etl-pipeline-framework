@@ -1,0 +1,17 @@
+pipeline:
+  name: daily_sales_etl
+  schedule: "0 6 * * *"
+
+extract:
+  type: csv
+  path: data/raw/sales.csv
+
+transform:
+  - rename: {"Sale Amount": "sale_amount", "Order ID": "order_id", "Qty": "quantity"}
+  - cast: {sale_amount: float, quantity: int}
+  - filter: "sale_amount > 0"
+  - dedup: {subset: [order_id]}
+
+load:
+  type: parquet
+  path: data/processed/sales.parquet
