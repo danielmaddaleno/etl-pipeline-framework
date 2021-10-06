@@ -84,3 +84,7 @@ git clone https://github.com/danielmaddaleno/etl-pipeline-framework.git
 cd etl-pipeline-framework
 pip install -r requirements.txt
 ```
+
+## Usage
+
+See `docs/` for detailed examples.
