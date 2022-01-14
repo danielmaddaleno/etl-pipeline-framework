@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Auto-generate Airflow DAGs from pipeline YAML configs."""
 
 from __future__ import annotations
