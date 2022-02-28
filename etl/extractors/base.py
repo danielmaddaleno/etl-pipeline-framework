@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Base extractor protocol."""
 
 from __future__ import annotations
