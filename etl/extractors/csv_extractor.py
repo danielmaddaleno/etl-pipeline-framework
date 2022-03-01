@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """CSV file extractor."""
 
 from __future__ import annotations
