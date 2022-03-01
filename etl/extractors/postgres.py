@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """PostgreSQL extractor (requires psycopg2)."""
 
 from __future__ import annotations
