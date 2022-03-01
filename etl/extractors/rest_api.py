@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """REST API extractor — GET endpoint → DataFrame."""
 
 from __future__ import annotations
