@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Base loader protocol."""
 
 from __future__ import annotations
