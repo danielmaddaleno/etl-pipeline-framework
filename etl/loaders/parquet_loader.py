@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Parquet file loader."""
 
 from __future__ import annotations
