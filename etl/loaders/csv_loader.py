@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """CSV file loader."""
 
 from __future__ import annotations
