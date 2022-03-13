@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Base transformer protocol."""
 
 from __future__ import annotations
