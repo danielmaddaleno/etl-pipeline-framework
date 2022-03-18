@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Deduplication transformer."""
 
 from __future__ import annotations
