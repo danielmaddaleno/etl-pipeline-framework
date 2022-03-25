@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Filter rows transformer using DataFrame.query()."""
 
 from __future__ import annotations
