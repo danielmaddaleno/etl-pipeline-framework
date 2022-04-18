@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Tests for the ETL pipeline."""
 
 import tempfile
