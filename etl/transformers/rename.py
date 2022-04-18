@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Rename columns transformer."""
 
 from __future__ import annotations
