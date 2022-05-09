@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""Csv Extractor — core implementation."""
 """CSV file extractor."""
 
 from __future__ import annotations
