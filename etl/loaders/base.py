@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""Base — core implementation."""
 """Base loader protocol."""
 
 from __future__ import annotations
