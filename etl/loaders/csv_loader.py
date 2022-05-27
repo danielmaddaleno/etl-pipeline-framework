@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""Csv Loader — core implementation."""
 """CSV file loader."""
 
 from __future__ import annotations
