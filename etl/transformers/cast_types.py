@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""Cast Types — core implementation."""
 """Cast column types transformer."""
 
 from __future__ import annotations
