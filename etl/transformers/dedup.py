@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""Dedup — core implementation."""
 """Deduplication transformer."""
 
 from __future__ import annotations
