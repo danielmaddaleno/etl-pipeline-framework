@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""Filter Rows — core implementation."""
 """Filter rows transformer using DataFrame.query()."""
 
 from __future__ import annotations
