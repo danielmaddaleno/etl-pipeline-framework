@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""Validation — core implementation."""
 """Pydantic-based schema validation before loading."""
 
 from __future__ import annotations
