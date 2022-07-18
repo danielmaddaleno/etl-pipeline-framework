@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""Rename — core implementation."""
 """Rename columns transformer."""
 
 from __future__ import annotations
