@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Author: Daniel Maddaleno
 """Dag Generator — core implementation."""
 """Auto-generate Airflow DAGs from pipeline YAML configs."""
 
