@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Author: Daniel Maddaleno
 """Csv Extractor — core implementation."""
 """CSV file extractor."""
 
