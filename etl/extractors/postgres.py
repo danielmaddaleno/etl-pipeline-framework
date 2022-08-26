@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Author: Daniel Maddaleno
 """Postgres — core implementation."""
 """PostgreSQL extractor (requires psycopg2)."""
 
