@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Author: Daniel Maddaleno
 """Rest Api — core implementation."""
 """REST API extractor — GET endpoint → DataFrame."""
 
