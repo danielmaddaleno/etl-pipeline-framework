@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Author: Daniel Maddaleno
 """Csv Loader — core implementation."""
 """CSV file loader."""
 
