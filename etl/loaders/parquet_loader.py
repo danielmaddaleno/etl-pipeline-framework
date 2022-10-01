@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Author: Daniel Maddaleno
 """Parquet Loader — core implementation."""
 """Parquet file loader."""
 
