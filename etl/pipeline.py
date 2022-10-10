@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Author: Daniel Maddaleno
 """Pipeline — core implementation."""
 """ETL Pipeline orchestrator — reads YAML config and runs E → T → L."""
 
