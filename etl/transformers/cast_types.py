@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Author: Daniel Maddaleno
 """Cast Types — core implementation."""
 """Cast column types transformer."""
 
