@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Author: Daniel Maddaleno
 """Rename — core implementation."""
 """Rename columns transformer."""
 
