@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Author: Daniel Maddaleno
 """Filter Rows — core implementation."""
 """Filter rows transformer using DataFrame.query()."""
 
