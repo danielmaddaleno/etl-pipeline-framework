@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Author: Daniel Maddaleno
 """Validation — core implementation."""
 """Pydantic-based schema validation before loading."""
 
