@@ -4,3 +4,9 @@ __pycache__/
 .env
 .pytest_cache/
 data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
