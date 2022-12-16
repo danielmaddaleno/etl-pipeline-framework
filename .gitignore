@@ -10,3 +10,11 @@ data/
 .idea/
 *.swp
 *.swo
+
+# Coverage & dist
+htmlcov/
+.coverage
+coverage.xml
+dist/
+build/
+*.egg-info/
