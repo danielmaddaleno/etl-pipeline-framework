@@ -1,3 +1,6 @@
+![Tests](https://github.com/danielmaddaleno/etl-pipeline-framework/actions/workflows/tests.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # 🔄 etl-pipeline-framework
 
 Lightweight, configurable **ETL pipeline framework** built with Python, Pandas, and Airflow. Define extraction sources, transformation steps, and load targets via YAML — no boilerplate code required.
