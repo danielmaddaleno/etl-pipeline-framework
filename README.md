@@ -113,3 +113,7 @@ See [docs/architecture.md](docs/architecture.md).
 - [ ] Improve test coverage
 - [ ] Add benchmarks
 - [ ] Docker support
+
+## Acknowledgements
+
+Built with Python and open-source tools.
