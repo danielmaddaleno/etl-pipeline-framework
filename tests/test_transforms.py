@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""Test Transforms — automated test suite."""
 """Tests for transform steps."""
 
 import pandas as pd
