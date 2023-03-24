@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""Test Pipeline — automated test suite."""
 """Tests for the ETL pipeline."""
 
 import tempfile
